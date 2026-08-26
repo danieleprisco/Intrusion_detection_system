@@ -41,7 +41,7 @@ To run this script, you will need:
    ```
 
 ## Usage
-* To start the IDS, run the main script with root privileges (strictly required to capture packets from the physical network card):
+To start the IDS, run the main script with root privileges (strictly required to capture packets from the physical network card):
    ```bash
    sudo python3 Intrusion_detection_system.py
    ```
